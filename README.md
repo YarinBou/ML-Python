@@ -1,2 +1,2 @@
 # ML - Python
- machine learning projects in python with source code
+ Machine learning projects in python with source code
