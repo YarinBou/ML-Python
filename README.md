@@ -1,4 +1,4 @@
-# ML - Python
+# Machine-Learning-fundamentals
 
 Machine learning projects in python with source code
 
