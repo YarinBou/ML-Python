@@ -4,22 +4,20 @@ Machine learning projects in python with source code
 
 ## Linear Regression
 
-1. Load a dataset and perform basic data exploration using a powerful data science library called [pandas](https://pandas.pydata.org/pandas-docs/stable/).
-2. Preprocess the data for linear regression.
-3. Compute the cost and perform gradient descent in pure numpy in vectorized form.
-4. Fit a linear regression model using a single feature.
-5. Visualize my results using matplotlib.
-6. Perform multivariate linear regression.
-7. Pick the best features in the dataset.
-8. Experiment with adaptive learning rates.
+1. Preprocess the data for linear regression.
+2. Compute the cost and perform gradient descent in pure numpy in vectorized form.
+3. Fit a linear regression model using a single feature.
+4. Visualize my results using matplotlib.
+5. Perform multivariate linear regression.
+6. Pick the best features in the dataset.
+7. Experiment with adaptive learning rates.
 
 ## Decision Trees
 
-1. Practice OOP in python.
-2. Implement two impurity measures: Gini and Entropy.
-3. Construct a decision tree algorithm.
-4. Prune the tree to achieve better results.
-5. Visualize ny results.
+1. Implement two impurity measures: Gini and Entropy.
+2. Construct a decision tree algorithm.
+3. Prune the tree to achieve better results.
+4. Visualize ny results.
 
 # MAP Classifier
 
@@ -36,4 +34,4 @@ Machine learning projects in python with source code
 
 # Clustering
 
-k-means as an image compression algorithm.
+1. Implement k-means as an image compression algorithm.
